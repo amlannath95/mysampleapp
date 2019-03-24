@@ -1,2 +1,2 @@
 #My app
-This is my add.
+This is my app.
